@@ -7,11 +7,11 @@ I'm a backend developer with 3+ years experience in PHP. My passion is building 
 ## 🛠️ Technologies & Skills
 
 - **Programming Languages**: PHP - 💪, Golang (study)
-- **Frameworks**: Symfony - 💪, Laravel
+- **Frameworks**: Symfony - 💪, Laravel, API Platform
 - **Databases**: MySQL, PostgreSQL, Redis
-- **Tools**: Docker, Git, Composer, REST API
+- **Tools**: Docker, Git, Composer, REST API, Kafka, Swagger, EasyAdmin
 - **DevOps**: CI/CD, GitHub Actions, GitLab CI/CD
-- **Other**: OOP, SOLID, RESTful API, Microservices, Unit Testing
+- **Other**: OOP, SOLID, RESTful API, Microservices, Unit Testing, Event-Driven Architecture, Agile/Scrum
 
 ## 💼 Work Experience
 
@@ -58,7 +58,6 @@ Tech stack: PHP 8.3, Symfony 7.2, PostgreSQL, Redis.
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![REST](https://img.shields.io/badge/REST-FF6F61?style=for-the-badge&logo=rest&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
